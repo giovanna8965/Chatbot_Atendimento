@@ -1,0 +1,26 @@
+perguntas-respostas {
+ max-width: 600px;
+ margin: 40px auto;
+ padding: 20px;
+ background-color: #fff;
+ border: 1px solid #ddd;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ color: #333; /* azul escuro */
+}
+
+.perguntas-respostas h2 {
+ color: #007bff; /* azul */
+}
+
+.perguntas-respostas ul {
+ list-style: none;
+ padding: 0;
+ margin: 0;
+}
+
+.perguntas-respostas li {
+ margin-bottom: 20px;
+ background-color: #f7f7f7; /* cinza claro */
+ padding: 10px;
+ border-bottom: 1px solid #ddd;
+}
