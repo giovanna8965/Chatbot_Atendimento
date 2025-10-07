@@ -1,0 +1,17 @@
+style.css
+body {
+font-family: Arial, sans-serif;
+background-color: #f0f0f0;
+}
+
+#grafico-vendas {
+width: 800px;
+height: 400px;
+}
+
+#botao-grafico {
+margin-top: 20px;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+}

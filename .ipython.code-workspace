@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": ".ipython",
+			"path": "../../../.ipython"
+		},
+		{
+			"name": "python",
+			"path": "../../python"
+		},
+		{
+			"name": "Sistema de Gestão de Estoque",
+			"path": "../../Projetos Python/Sistema de Gestão de Estoque"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
